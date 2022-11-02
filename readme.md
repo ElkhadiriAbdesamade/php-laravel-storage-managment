@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpackagist.org%2Fpackages%2Fmasterro%2Flaravel-mail-viewer&psig=AOvVaw1yqAwC9qBOGAnm6u1dA-IV&ust=1667441917974000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCO9au3jvsCFQAAAAAdAAAAABAE" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
